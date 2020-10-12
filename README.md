@@ -1,19 +1,16 @@
-### Hi there, I'm [Akil][akildesigns.ml] 👋
+### Hi there, I'm [Akil S][website] 👋
 
-[![Website](https://img.shields.io/website?label=akildesigns.com&style=for-the-badge&url=https%3A%2F%2Fakildesigns.ml)](https://akildesigns.ml)
+[![Website](https://img.shields.io/website?label=akildesigns.ml&style=for-the-badge&url=https%3A%2F%2Fakildesigns.ml)](https://akildesigns.ml)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Akil_S_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fakillika&screen_name=Akil_S_)
 
-## I'm a Husband, Father, Developer, and Teacher!!
+## I'm a Designer, Developer, Motion graphics editor!!
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
+- 🔭 I just launched my first course with DSC: [Adobe XD Scratchclass][course]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- ⚡ Fun fact: I love to play games and listen to music 
 
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
 ### Connect with me:
 
@@ -27,7 +24,7 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Fa%2Faf%2FAdobe_Photoshop_CC_icon.svg%2F1200px-Adobe_Photoshop_CC_icon.svg.png&imgrefurl=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FAdobe_Photoshop&tbnid=DA-J9IZqrEGu0M&vet=12ahUKEwiAyrWwo67sAhVbB7cAHclGAuAQMygAegUIARDLAQ..i&docid=AEoLeZA25mx8aM&w=1200&h=1170&q=photoshop%20logo&ved=2ahUKEwiAyrWwo67sAhVbB7cAHclGAuAQMygAegUIARDLAQ" />][webdevplaylist]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
 [<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][cssplaylist]
@@ -97,13 +94,9 @@
 
 </details>
 
-[website]: https://codeSTACKr.com
-[course]: http://vsCodeHero.com
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+[website]: https://dsc.community.dev/u/mrfqmt/#/about
+[course]: https://www.youtube.com/playlist?list=PLZCfcst7NAPeBQ8d3ZSbR4kk64MhjVDm7
+[twitter]: https://twitter.com/Akil_S_
+[youtube]: https://www.youtube.com/channel/UCvt5Rc8LiygW79WiFApwVOQ?view_as=subscriber
+[instagram]: https://www.instagram.com/akil_s_/
+[linkedin]: https://www.linkedin.com/in/akils/
