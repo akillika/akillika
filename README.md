@@ -33,7 +33,7 @@
 
 </details>
 
-[website]: https://dsc.community.dev/u/mrfqmt/#/about
+[website]: https://akildesigns.ml
 [course]: https://www.youtube.com/playlist?list=PLZCfcst7NAPeBQ8d3ZSbR4kk64MhjVDm7
 [twitter]: https://twitter.com/Akil_S_
 [youtube]: https://www.youtube.com/channel/UCvt5Rc8LiygW79WiFApwVOQ?view_as=subscriber
