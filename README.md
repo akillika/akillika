@@ -29,7 +29,8 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Akillika's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=akillika&show_icons=true_border=true" />
+  ![Akillika's GitHub stats](https://github-readme-stats.vercel.app/api?username=akillika&count_private=true)
+
 
 </details>
 
