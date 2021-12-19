@@ -8,7 +8,7 @@
 - 🔭 Brewing on Flutter currently!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Completed 2021 goals, waiting for 2022 xD
 - ⚡ Fun fact: I love to play games and listen to music 
 
 
