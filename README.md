@@ -29,11 +29,11 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Akillika's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=akillika&show_icons=true_border=true" />
+  <img align="left" alt="Akillika's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=akillika" />
 
 </details>
 
-[website]: https://akildesigns.ml
+[website]: https://akil.thedeveloperstudio.com
 [course]: https://www.youtube.com/playlist?list=PLZCfcst7NAPeBQ8d3ZSbR4kk64MhjVDm7
 [twitter]: https://twitter.com/Akil_S_
 [youtube]: https://www.youtube.com/channel/UCvt5Rc8LiygW79WiFApwVOQ?view_as=subscriber
