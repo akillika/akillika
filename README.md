@@ -1,6 +1,5 @@
 ### Hi there, I'm [Akil S][website] 👋
 
-[![Website](https://img.shields.io/website?label=akildesigns.ml&style=for-the-badge&url=https%3A%2F%2Fakildesigns.ml)](https://akildesigns.ml)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Akil_S_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fakillika&screen_name=Akil_S_)
 
 ## I'm a Designer, Developer, Motion graphics editor!!
