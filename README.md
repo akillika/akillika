@@ -2,7 +2,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Akil_S_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fakillika&screen_name=Akil_S_)
 
-## I'm a Designer, Developer, Motion graphics editor!!
+## I'm a Flutter Developer, Graphic and UI/UX Designer.
 
 - 🔭 Brewing on Flutter currently!
 - 🌱 Leads the Developer Community of SASTRA University
