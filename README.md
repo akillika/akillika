@@ -5,15 +5,14 @@
 ## I'm a Designer, Developer, Motion graphics editor!!
 
 - 🔭 Brewing on Flutter currently!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Completed 2021 goals, waiting for 2022 xD
-- ⚡ Fun fact: I love to play games and listen to music 
+- 🌱 Leads the Developer Community of SASTRA University
+- 👯 More of a creative person, than logical one.
+- 🥅 Electronics and Communication Engineering pre-final year student.
+- ⚡ Fun fact: Addicted to cars 🚗🏁
 
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
