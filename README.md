@@ -24,12 +24,8 @@
 
 
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Akillika's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=akillika" />
-
-</details>
+| ![Akil S's Github Stats](https://github-readme-stats.vercel.app/api?username=akillika&show_icons=true_color=fff&theme=algolia) | ![Akil's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=akillika&theme=algolia) |
+| -------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
 
 [website]: https://akil.thedeveloperstudio.com
 [course]: https://www.youtube.com/playlist?list=PLZCfcst7NAPeBQ8d3ZSbR4kk64MhjVDm7
