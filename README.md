@@ -6,7 +6,7 @@
 
 - 🔭 Brewing on Flutter currently!
 - 🌱 Leads the Developer Community of SASTRA University
-- 👯 More of a creative person, than logical one.
+- 👯 More of a creative person!
 - 🥅 Electronics and Communication Engineering pre-final year student.
 - ⚡ Fun fact: Addicted to cars 🚗🏁
 
