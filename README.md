@@ -5,9 +5,9 @@
 ## I'm a Flutter Developer, Graphic and UI/UX Designer.
 
 - 🔭 Brewing on Flutter currently!
-- 🌱 Leads the Developer Community of SASTRA University
+- 🌱 Mentors Developer Community of SASTRA University
 - 👯 More of a creative person!
-- 🥅 Electronics and Communication Engineering pre-final year student.
+- 🥅 Electronics and Communication Engineering final year student.
 - ⚡ Fun fact: Addicted to cars 🚗🏁
 
 
