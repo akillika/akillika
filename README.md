@@ -2,12 +2,11 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Akil_S_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fakillika&screen_name=Akil_S_)
 
-## I'm a Flutter Developer, Graphic and UI/UX Designer.
-
+## Software Development Engineer, Zoho Corp, India
 - 🔭 Brewing on Flutter currently!
 - 🌱 Mentors Developer Community of SASTRA University
 - 👯 More of a creative person!
-- 🥅 Electronics and Communication Engineering final year student.
+- 🥅 Engineering student.
 - ⚡ Fun fact: Addicted to cars 🚗🏁
 
 
