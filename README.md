@@ -11,24 +11,9 @@
 
 
 ### Connect with me:
-
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
 ---
 
-
-
-| ![Akil S's Github Stats](https://github-readme-stats.vercel.app/api?username=akillika&show_icons=true_color=fff&theme=algolia) | ![Akil's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=akillika&theme=algolia) |
-| -------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
-
-[website]: https://akil.thedeveloperstudio.com
-[course]: https://www.youtube.com/playlist?list=PLZCfcst7NAPeBQ8d3ZSbR4kk64MhjVDm7
-[twitter]: https://twitter.com/Akil_S_
-[youtube]: https://www.youtube.com/channel/UCvt5Rc8LiygW79WiFApwVOQ?view_as=subscriber
-[instagram]: https://www.instagram.com/akil_s_/
-[linkedin]: https://www.linkedin.com/in/akils/
