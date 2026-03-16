@@ -3,7 +3,6 @@
 💻 **Software Engineer @ Zoho Corp** — Backend Development with Java  
 🔧 Building scalable backend systems and RESTful APIs  
 🎓 Former Lead – Developer Community, SASTRA University  
-🚀 Passionate about clean code, mentorship, and rapid product releases  
 🎨 Creative thinker | 🚗 Car enthusiast | 📸 Hobbyist photographer
 
 ---
